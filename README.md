@@ -1,2 +1,2 @@
-# Base Containers
-This repository contains custom base containers.
+# Base Images
+This repository contains custom base images.
